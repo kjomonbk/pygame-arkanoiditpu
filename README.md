@@ -1,6 +1,7 @@
 # Arkanoid Game
 
-![image](screenshot.png)
+# Itpu task 1
+
 
 ## Preparation
 
