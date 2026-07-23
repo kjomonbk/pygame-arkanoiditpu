@@ -35,7 +35,4 @@ To look for the additions, seek comments started with "!!!"
 
 ## What's next?
 
-1. Add `mute` button
-1. Add more levels
-1. Add `gameover` screen
-1. Add more powerups
+# whoamI hahahahahah
